@@ -1,6 +1,8 @@
 # PsiFi Token Distribution
 
-Welcome to the PsiFi Token Distribution GitHub repository! This space is dedicated to providing transparent and comprehensive information about the distribution mechanisms of PsiFi tokens. Our aim is to foster trust and understanding within our community by clearly outlining how tokens are allocated, distributed, and the principles guiding our distribution strategy.
+Welcome to the PsiFi Token Distribution GitHub repository!
+
+This space is dedicated to providing transparent and comprehensive information about the distribution mechanisms of PsiFi tokens. Our aim is to foster trust and understanding within our community by clearly outlining how tokens are allocated, distributed, and the principles guiding our distribution strategy.
 
 ## Overview
 
